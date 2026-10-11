@@ -23,7 +23,7 @@ I am a passionate software developer driven by a simple mission: **building tool
 
 | Project Name | Description | Link |
 | :--- | :--- | :--- |
-| **ViolinNext** | Develop a network analyzer to improve collaboration between the NOC team and technicians and streamline their workflow| [Coming Soon] |
+| **ViolinNext** | Develop a network analyzer to improve collaboration between the NOC team and technicians and streamline their workflow| [https://github.com/violintvex/ViolinNext] |
 
 ---
 
